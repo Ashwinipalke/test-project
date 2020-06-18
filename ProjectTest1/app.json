@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "ProjectTest1",
+    "slug": "ProjectTest1",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rajyog.projecttest1",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.rajyog.projecttest1",
+      "versionCode": 1
+    }
+  }
+}
+
+
